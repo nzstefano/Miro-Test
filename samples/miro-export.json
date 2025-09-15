@@ -1,0 +1,138 @@
+{
+    "content": {
+        "widgets": [
+            {
+                "id": "3458764639651442143",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "slidecontainer",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.0},\"relativeRotation\":0,\"relativeScale\":1,\"direction\":2,\"padding\":57.023494361554505,\"lanes\":{\"0826gh2q:0000b\":{\"position\":\"!.B\"}},\"_parent\":null,\"_position\":{\"offsetPx\":{\"x\":-727.0083618164062,\"y\":-544.8832092285156},\"schema\":\"canvasOffsetPx\"}}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442144",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "frame",
+                    "json": "{\"size\":{\"width\":1013.75101087208,\"height\":570.234943615545},\"style\":\"{\\\"ffn\\\":\\\"OpenSans\\\",\\\"fs\\\":14,\\\"tc\\\":6052956,\\\"ta\\\":\\\"l\\\",\\\"ff\\\":1,\\\"fd\\\":0,\\\"ss\\\":4,\\\"sc\\\":4350719,\\\"bc\\\":4350719,\\\"fo\\\":2}\",\"name\":\"\",\"scale\":{\"scale\":1.0},\"contentManagement\":{\"hidden\":false},\"isClusteringContainer\":false,\"presentationOrder\":\"!.B\",\"relativeScale\":1.0,\"relativeRotation\":0.0,\"ns:autoStyle\":{\"previous\":\"{\\\"sc\\\":16777215,\\\"bc\\\":16777215}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442143\"},\"_position\":{\"refId\":\"0826gh2q:0000b\",\"stringIndex\":\"!.B\",\"schema\":\"stringIndex2dPosition\"}}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442146",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.7142857142857142},\"size\":{\"width\":268.23531811196773,\"height\":48.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":-1,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"c\\\",\\\"tc\\\":16777215,\\\"tsc\\\":1,\\\"ffn\\\":\\\"NotoSans\\\",\\\"b\\\":0,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolor mauris. Donec sollicitudin euismod libero in laoreet.\u003C/p\u003E\",\"ns:autoStyle\":{\"previous\":\"{\\\"tc\\\":1710618}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442144\"},\"_position\":{\"offsetPx\":{\"x\":506.87550543604,\"y\":273.8155365579221},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":1.7142857142857142}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442147",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.21596274784462},\"size\":{\"width\":83.66,\"height\":16.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":16777215,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"l\\\",\\\"tc\\\":1842206,\\\"tsc\\\":0,\\\"ffn\\\":\\\"Roobert\\\",\\\"b\\\":1,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003E\u003Cstrong style=\\\"color:rgb(28,28,30)\\\"\u003EQuote name\u003C/strong\u003E\u003C/p\u003E\",\"_parent\":{\"id\":\"3458764639651442144\"},\"_position\":{\"offsetPx\":{\"x\":539.1562412559406,\"y\":368.4212183221514},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":1.21596274784462}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442148",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":0.972770198275691},\"size\":{\"width\":215.92158785533397,\"height\":16.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":16777215,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"l\\\",\\\"tc\\\":1842206,\\\"tsc\\\":0,\\\"ffn\\\":\\\"Roobert\\\",\\\"b\\\":0,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003E\u003Cspan style=\\\"color:rgb(28,28,30)\\\"\u003EQuote role\u003C/span\u003E\u003C/p\u003E\",\"_parent\":{\"id\":\"3458764639651442144\"},\"_position\":{\"offsetPx\":{\"x\":594.8248723196803,\"y\":388.41309366688233},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":0.972770198275691}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442149",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":4.57142857142857},\"size\":{\"width\":12.000264793531699,\"height\":20.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":-1,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"c\\\",\\\"tc\\\":16777215,\\\"tsc\\\":1,\\\"ffn\\\":\\\"OpenSans\\\",\\\"b\\\":0,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003E\u003Cstrong\u003E “”\u003C/strong\u003E\u003C/p\u003E\",\"ns:autoStyle\":{\"previous\":\"{\\\"tc\\\":1710618}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442144\"},\"_position\":{\"offsetPx\":{\"x\":506.87550543604,\"y\":207.15681136536},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":4.57142857142857}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442324",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "frame",
+                    "json": "{\"size\":{\"width\":1013.75101087208,\"height\":570.234943615545},\"style\":\"{\\\"ffn\\\":\\\"OpenSans\\\",\\\"fs\\\":14,\\\"tc\\\":6052956,\\\"ta\\\":\\\"l\\\",\\\"ff\\\":1,\\\"fd\\\":0,\\\"ss\\\":4,\\\"sc\\\":4350719,\\\"bc\\\":4350719,\\\"fo\\\":2}\",\"name\":\"\",\"scale\":{\"scale\":1.0},\"contentManagement\":{\"hidden\":false},\"isClusteringContainer\":false,\"presentationOrder\":\"!.D\",\"relativeScale\":1.0,\"relativeRotation\":0.0,\"ns:autoStyle\":{\"previous\":\"{\\\"sc\\\":16777215,\\\"bc\\\":16777215}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442143\"},\"_position\":{\"refId\":\"0826gh2q:0000b\",\"stringIndex\":\"!.D\",\"schema\":\"stringIndex2dPosition\"}}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442326",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.7142857142857142},\"size\":{\"width\":268.23531811196773,\"height\":48.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":-1,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"c\\\",\\\"tc\\\":16777215,\\\"tsc\\\":1,\\\"ffn\\\":\\\"NotoSans\\\",\\\"b\\\":0,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet dolore mauris. Donec sollicitudin, euismod libero in laoreet.\u003C/p\u003E\",\"ns:autoStyle\":{\"previous\":\"{\\\"tc\\\":1710618}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442324\"},\"_position\":{\"offsetPx\":{\"x\":506.87550543604,\"y\":273.8155365579221},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":1.7142857142857142}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442327",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.21596274784462},\"size\":{\"width\":83.66,\"height\":16.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":15790320,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"l\\\",\\\"tc\\\":1842206,\\\"tsc\\\":1,\\\"ffn\\\":\\\"Roobert\\\",\\\"b\\\":1,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003E\u003Cstrong\u003EQuote name 2\u003C/strong\u003E\u003C/p\u003E\",\"_parent\":{\"id\":\"3458764639651442324\"},\"_position\":{\"offsetPx\":{\"x\":436.053892128898,\"y\":374.4417009375974},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":1.21596274784462}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442328",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":0.972770198275691},\"size\":{\"width\":215.92158785533397,\"height\":16.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":15790320,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"l\\\",\\\"tc\\\":1842206,\\\"tsc\\\":1,\\\"ffn\\\":\\\"Roobert\\\",\\\"b\\\":1,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003EQuote role\u003C/p\u003E\",\"_parent\":{\"id\":\"3458764639651442324\"},\"_position\":{\"offsetPx\":{\"x\":491.72252319263765,\"y\":394.4335762823283},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":0.972770198275691}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764639651442329",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":4.57142857142857},\"size\":{\"width\":12.000264793531699,\"height\":20.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":-1,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"c\\\",\\\"tc\\\":16777215,\\\"tsc\\\":1,\\\"ffn\\\":\\\"OpenSans\\\",\\\"b\\\":0,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"p\\\":0,\\\"fw\\\":1}\",\"text\":\"\u003Cp\u003E\u003Cstrong\u003E “”\u003C/strong\u003E\u003C/p\u003E\",\"ns:autoStyle\":{\"previous\":\"{\\\"tc\\\":1710618}\",\"styleId\":\"style-1\"},\"_parent\":{\"id\":\"3458764639651442324\"},\"_position\":{\"offsetPx\":{\"x\":506.87550543604,\"y\":207.15681136536},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":4.57142857142857}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764640217163417",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "frame",
+                    "json": "{\"size\":{\"width\":1013.75101087208,\"height\":570.234943615545},\"style\":\"{\\\"ffn\\\":\\\"OpenSans\\\",\\\"fs\\\":14,\\\"tc\\\":6052956,\\\"ta\\\":\\\"l\\\",\\\"ff\\\":1,\\\"fd\\\":0,\\\"ss\\\":4,\\\"sc\\\":4350719,\\\"bc\\\":4350719,\\\"fo\\\":2}\",\"name\":\"Frame 1\",\"scale\":{\"scale\":1.0},\"contentManagement\":{\"hidden\":false},\"isClusteringContainer\":false,\"presentationOrder\":\"!.F\",\"relativeScale\":1.0,\"relativeRotation\":0.0,\"_parent\":{\"id\":\"3458764639651442143\"},\"_position\":{\"refId\":\"0826gh2q:0000b\",\"stringIndex\":\"!.F\",\"schema\":\"stringIndex2dPosition\"}}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764640217163498",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "image",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":0.2564667402209946},\"title\":\"\",\"altText\":\"\",\"crop\":{\"x\":0.0,\"y\":0.0,\"width\":2070.0,\"height\":1380.0,\"shape\":\"custom\"},\"resource\":{\"id\":\"3458764517172923770\",\"boardId\":\"uXjVJLTxP_w=\",\"name\":\"photo-1668475368605-a965547e55e1\",\"generated\":true,\"width\":2070.0,\"height\":1380.0},\"image\":{\"animated\":false,\"externalLink\":\"https://images.unsplash.com/photo-1668475368605-a965547e55e1?q=80&w=2070&auto=format&fit=crop\"},\"style\":\"{\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brs\\\":2,\\\"brw\\\":5,\\\"brr\\\":0.0}\",\"_parent\":{\"id\":\"3458764640217163417\"},\"_position\":{\"offsetPx\":{\"x\":506.87550543604,\"y\":338.4045764035605},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":0.2564667402209946}",
+                    "content": null
+                }
+            },
+            {
+                "id": "3458764640217259249",
+                "canvasedObjectData": {
+                    "widgetId": null,
+                    "type": "text",
+                    "json": "{\"rotation\":{\"rotation\":0.0},\"scale\":{\"scale\":1.2142857142857142},\"size\":{\"width\":199.28,\"height\":20.0},\"style\":\"{\\\"st\\\":14,\\\"bc\\\":-1,\\\"bo\\\":1,\\\"brc\\\":-1,\\\"bro\\\":1,\\\"brw\\\":0,\\\"brs\\\":2,\\\"bsc\\\":0,\\\"ta\\\":\\\"l\\\",\\\"tc\\\":16777215,\\\"tsc\\\":1,\\\"ffn\\\":\\\"OpenSans\\\",\\\"b\\\":1,\\\"i\\\":0,\\\"u\\\":0,\\\"s\\\":0,\\\"pwss\\\":0,\\\"p\\\":0,\\\"fw\\\":0}\",\"text\":\"\u003Cp\u003E\u003Cstrong\u003EImage, here! Credits to Unsplash\u003C/strong\u003E\u003C/p\u003E\",\"_parent\":{\"id\":\"3458764640217163417\"},\"_position\":{\"offsetPx\":{\"x\":512.3566206545311,\"y\":90.44641890306747},\"schema\":\"parentOffsetPx\"},\"relativeRotation\":0,\"relativeScale\":1.2142857142857142}",
+                    "content": null
+                }
+            }
+        ],
+        "tags": [],
+        "emojis": [],
+        "comments": []
+    },
+    "style": {
+        "backgroundColor": null
+    }
+}

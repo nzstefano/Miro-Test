@@ -1,0 +1,17 @@
+{
+  "name": "miro-test",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node server.js",
+    "lint": "echo \"(optional) add eslint here\""
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "body-parser": "^1.20.3",
+    "uuid": "^9.0.1"
+  }
+}
